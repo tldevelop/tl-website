@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tl-black: #1E1E1E;
+}
+
+body {
+  background: var(--tl-black);
+}
